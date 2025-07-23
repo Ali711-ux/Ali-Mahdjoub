@@ -1,22 +1,16 @@
-<h1 align="center">👩🏻‍💻 Hi Folks!</h1>
+# 👋 Hi Folks!
 
-<p align="center">
-  <img src="https://your-photo-link.jpg" width="250" alt="Ali Mahdjoub Photo" />
-</p>
+<img src="https://user-images.githubusercontent.com/xxxxxxxxxxxxxxx" width="250" align="right" />
 
-<p align="center">
-  <strong>Ali Mahdjoub</strong><br>
-  Android Developer | Java | Kotlin | Firebase
-</p>
+I'm a passionate Android Developer 👩‍💻 with experience in:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ton-lien" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="https://tonportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-orange?logo=google-chrome" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Faire%20une%20photo-📸-lightgrey" />
-  </a>
-</p>
+- 💻 Java & Kotlin
+- 📱 Android Studio
+- 🚀 Google Play Compliance
+
+---
+
+📫 Reach me on:
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/votreprofil/)
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
