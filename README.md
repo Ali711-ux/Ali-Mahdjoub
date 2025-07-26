@@ -32,10 +32,10 @@
 ### 👋 About Me  
 ✨ Hello! I’m **Ali Mahdjoub**, a passionate **Android Developer** based in **Algeria**, looking for opportunities in the **USA**.
 
-✅ 4+ Android apps **(Java & Kotlin)**: 3 developed from scratch, 1 maintained and improved  
+✅ **4+ Android apps (Java & Kotlin)**: **3** developed from scratch, **1** maintained and improved  
 🧩 Strong understanding of software engineering principles, **clean architecture,MVVM,MVC**, and **UI/UX**  
-🌍 Open to Work **(Remote/Hybrid/Onsite)** across the **USA**  
-✈️ Open to Relocation | **Visa Sponsorship Ready**  
+🌍 **Open to Work (Remote/Hybrid/Onsite)** across the **USA**  
+✈️ **Open to Relocation** | **Visa Sponsorship Ready**  
 ⚙️ Passionate about building modern, user-friendly Android applications that make a difference
 
 🎓 Master’s in Information Systems Management – Software Engineering  
