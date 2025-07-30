@@ -38,8 +38,9 @@
 ✈️ **Open to Relocation** | **Visa Sponsorship Ready**  
 ⚙️ Passionate about building modern, user-friendly Android applications that make a difference
 
-🎓 Master’s in Information Systems Management – Software Engineering  
-**CESI EXIA (Algeria) – RNCP Level 7**
+<sub>**🎓 Master’s in Information Systems Management – Software Engineering  
+CESI EXIA (Algeria) – RNCP Level 7**</sub>
+
 ---
 
 ### 🚀 Featured Projects
@@ -51,7 +52,8 @@
 ▶ Watch Demo
 
 🛋️ **E-commerce Furniture App (Kotlin)**  
-▶ Watch Demo
+📸 View Screenshots
 
 🎓 **Student Management – EXIA CESI (Java)**  
-▶ Watch Demo
+📸 View Screenshots
+
