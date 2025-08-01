@@ -45,15 +45,11 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 
 ### 🚀 Featured Projects
 
-✈️ **Belmouri Voyage (Java)**  
+✈️ **Travel & Tourism Agency Operations Management(Java)**  
 ▶ Watch Demo
 
 🗺️ **Well Management – Sonatrach (Java)**  
 ▶ Watch Demo
 
-🛋️ **E-commerce Furniture App (Kotlin)**  
-📸 View Screenshots
 
-🎓 **Student Management – EXIA CESI (Java)**  
-📸 View Screenshots
 
