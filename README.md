@@ -44,12 +44,10 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 ---
 
 ### 🚀 Featured Projects
+<div align="center"> <!-- Projet 1 --> <h3>✈️ Travel App (Java)</h3> <img src="https://your-link-to-image/travel-icon.png" width="150px" alt="Travel App logo" /> <br/> <a href="https://youtu.be/ton-lien-demo" target="_blank"> <img src="https://img.shields.io/badge/▶️ Watch Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/> </a>
+<br/><br/>
 
-✈️ **Travel & Tourism Agency Operations Management(Java)**  
-▶ Watch Demo
-
-🗺️ **Well Management – Sonatrach (Java)**  
-▶ Watch Demo
-
+<!-- Projet 2 --> <h3>🛢️ Well Management App (Java)</h3> <img src="https://your-link-to-image/well-icon.png" width="150px" alt="Well Management logo" /> <br/> <a href="https://youtu.be/ton-lien-demo2" target="_blank"> <img src="https://img.shields.io/badge/▶️ Watch Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/> </a>
+<br/><br/>
 
 
