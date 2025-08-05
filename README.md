@@ -103,4 +103,35 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 
 ---
 
+### 📊 GitHub Analytics
+
+<!-- Langages simulés : Java > Kotlin -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mahdjoub&layout=compact&theme=radical&hide=html,css,javascript,typescript,swift&langs_count=6&custom_title=Most%20Used%20Languages" />
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-mahdjoub&show_icons=true&theme=radical&rank_icon=percentile&hide_title=false&hide=issues" />
+</div>
+
+<br/>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-mahdjoub&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+
+<br/>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-mahdjoub&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+
+
 
