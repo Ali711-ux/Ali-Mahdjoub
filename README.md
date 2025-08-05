@@ -70,28 +70,37 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 </div>
 
 ---
+
 ### 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Amadeus-0057B8?style=for-the-badge&logo=amadeus&logoColor=white" alt="Amadeus API"/>
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
+<div align="left">
+
+  <!-- Android / Java / Kotlin -->
+  <img src="https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/KOTLIN-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+
+  <!-- iOS / SwiftUI / Xcode -->
+  <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWIFTUI-000000?style=for-the-badge&logo=swift&logoColor=F05138" />
+  <img src="https://img.shields.io/badge/XCODE-000000?style=for-the-badge&logo=xcode&logoColor=147EFB" />
+
+  <!-- Outils Android / APIs -->
+  <img src="https://img.shields.io/badge/GRADLE-000000?style=for-the-badge&logo=gradle&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/ANDROID%20STUDIO-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/GOOGLE%20MAPS-000000?style=for-the-badge&logo=googlemaps&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMADEUS-000000?style=for-the-badge&logo=airbnb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATERIAL%20DESIGN-000000?style=for-the-badge&logo=material-design&logoColor=white" />
+
 </div>
 
+<br/>
 
-
-### 💡 Currently learning
-
-- SwiftUI  
-- iOS basics  
-- App modularization
+<!-- Currently learning -->
+<p align="left"><strong>💡 Currently learning:</strong> SwiftUI, iOS basics, App modularization.</p>
 
 ---
+
 
