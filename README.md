@@ -102,7 +102,7 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 <p align="left"><strong>💡 Currently learning:</strong> SwiftUI, iOS basics, App modularization.</p>
 
 ---
-### 🔥 Most Used Languages 
+### 🔥 Most Used Languages (Manual Stats) 
 
 | Language   | Usage     |
 |------------|-----------|
@@ -110,5 +110,46 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 |  Kotlin     | ███████████████████               30% |
 
 ---
+### 📊 Developer Activity (Manual Stats)
+
+| Activity                      | Frequency     |
+|------------------------------|----------------|
+| 👨‍💻 Coding Android Apps       | ████████████░░░ 80% |
+| 🧪 Testing & Debugging        | █████████░░░░░ 60% |
+| 🎨 Designing UI/UX            | ██████████░░░░ 70% |
+| 📚 Learning New Tech          | ███████░░░░░░ 50% |
+| 🌍 Networking & Job Hunting   | ██████░░░░░░░ 40% |
+
+---
+
+### 📈 My Dev Journey
+
+- 🧱 **2022** → Discovered Android development and built my first app:  
+  a student management system for CESI EXIA (Java)
+
+- 🛒 **2023** → Developed a complete E-commerce Android app  
+  with Firebase integration and modern UI (Kotlin)
+
+- 🚀 **2024** → Focused on improving app quality:  
+  Clean Architecture, Material Design, Google Maps API
+
+- 🍎 **2025** → Started exploring iOS development with SwiftUI  
+  and building a solid portfolio for international opportunities
+
+- 🎯 **Today** → Actively looking for Android Developer roles (remote/on-site)  
+  and ready to contribute to real-world impactful projects
+  
+---
+  ### 🌍 Open to New Opportunities – USA & Remote
+
+👦🏻 I’m actively open to work in the USA (remote or relocation).
+
+💬 Feel free to message me about:
+
+- Android Development roles  
+- Mobile software engineering challenges  
+- Tech talks & open source  
+
+📩 Let’s talk!
 
 
