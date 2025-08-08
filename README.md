@@ -142,7 +142,7 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 ---
   ### 🌍 Open to New Opportunities – USA & Remote
 
-👦🏻 I’m actively open to work in the USA (remote or relocation).
+👦🏻 I’m actively **open to work in the USA (remote or relocation).**
 
 💬 Feel free to message me about:
 
@@ -152,4 +152,33 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 
 📩 Let’s talk!
 
+---
+### ✨ Check out my Portfolio!
 
+<div align="center">
+
+👉 Visit my portfolio to explore detailed projects, case studies, and my full tech stack.  
+🌐 [www.tonportfolio.com](https://www.tonportfolio.com)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ali-mahdjoub-709b351ba/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://wa.me/213671236181" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+<br/>
+
+📩 alimahdjoub077@gmail.com
+
+</div>
+
+
+
+
+
+---
+⭐ Thanks for stopping by! Excited to collaborate on impactful mobile apps across the USA!
