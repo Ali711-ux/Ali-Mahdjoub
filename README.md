@@ -9,7 +9,7 @@
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ton-profil" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-mahdjoub-709b351ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -21,11 +21,12 @@
   &nbsp;
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/33612345678" target="_blank">
+  <a href="https://wa.me/213671236181" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
 </div>
+
 
 ---
 
@@ -88,9 +89,9 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
   <!-- Outils Android / APIs -->
   <img src="https://img.shields.io/badge/GRADLE-000000?style=for-the-badge&logo=gradle&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/ANDROID%20STUDIO-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/GOOGLE%20MAPS-000000?style=for-the-badge&logo=googlemaps&logoColor=4285F4" />
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/ANDROID%20STUDIO-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/AMADEUS-000000?style=for-the-badge&logo=airbnb&logoColor=white" />
   <img src="https://img.shields.io/badge/MATERIAL%20DESIGN-000000?style=for-the-badge&logo=material-design&logoColor=white" />
 
@@ -155,12 +156,12 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 ---
 ### ✨ Check out my Portfolio!
 
-<div align="center">
-
 👉 Visit my portfolio to explore detailed projects, case studies, and my full tech stack.  
 🌐 [www.tonportfolio.com](https://www.tonportfolio.com)
 
-<br/>
+💬 Or connect directly via:
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ali-mahdjoub-709b351ba/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -175,6 +176,7 @@ CESI EXIA (Algeria) – RNCP Level 7**</sub>
 📩 alimahdjoub077@gmail.com
 
 </div>
+
 
 
 
