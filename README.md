@@ -1,7 +1,7 @@
 # 👦 Hi everyone!
 
 <div align="center">
-  <img src="FREE%20(6).png" alt="Profile Picture" width="330" style="border-radius: 14px; box-shadow: 0 6px 14px rgba(0,0,0,0.2);" />
+  <img src="FREE%20.png" alt="Profile Picture" width="330" style="border-radius: 14px; box-shadow: 0 6px 14px rgba(0,0,0,0.2);" />
 </div>
 
 <br/>
